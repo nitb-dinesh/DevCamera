@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">DevActivity!</string>
+    <string name="app_name">DevCamera</string>
+    <string name="questionmark">\?!</string>
+    <string name="explenation">Sorry, I could not find a camera on your device.</string>
+    <string name="nosdcard">There is no SD card</string>
+
+</resources>
